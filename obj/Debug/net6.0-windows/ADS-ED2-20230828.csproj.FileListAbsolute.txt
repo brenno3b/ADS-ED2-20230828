@@ -1,0 +1,16 @@
+C:\Users\Brenno\source\repos\ADS-ED2-20230828\bin\Debug\net6.0-windows\ADS-ED2-20230828.exe
+C:\Users\Brenno\source\repos\ADS-ED2-20230828\bin\Debug\net6.0-windows\ADS-ED2-20230828.deps.json
+C:\Users\Brenno\source\repos\ADS-ED2-20230828\bin\Debug\net6.0-windows\ADS-ED2-20230828.runtimeconfig.json
+C:\Users\Brenno\source\repos\ADS-ED2-20230828\bin\Debug\net6.0-windows\ADS-ED2-20230828.dll
+C:\Users\Brenno\source\repos\ADS-ED2-20230828\bin\Debug\net6.0-windows\ADS-ED2-20230828.pdb
+C:\Users\Brenno\source\repos\ADS-ED2-20230828\obj\Debug\net6.0-windows\ADS_ED2_20230828.Form1.resources
+C:\Users\Brenno\source\repos\ADS-ED2-20230828\obj\Debug\net6.0-windows\ADS-ED2-20230828.csproj.GenerateResource.cache
+C:\Users\Brenno\source\repos\ADS-ED2-20230828\obj\Debug\net6.0-windows\ADS-ED2-20230828.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Brenno\source\repos\ADS-ED2-20230828\obj\Debug\net6.0-windows\ADS-ED2-20230828.AssemblyInfoInputs.cache
+C:\Users\Brenno\source\repos\ADS-ED2-20230828\obj\Debug\net6.0-windows\ADS-ED2-20230828.AssemblyInfo.cs
+C:\Users\Brenno\source\repos\ADS-ED2-20230828\obj\Debug\net6.0-windows\ADS-ED2-20230828.csproj.CoreCompileInputs.cache
+C:\Users\Brenno\source\repos\ADS-ED2-20230828\obj\Debug\net6.0-windows\ADS-ED2-20230828.dll
+C:\Users\Brenno\source\repos\ADS-ED2-20230828\obj\Debug\net6.0-windows\refint\ADS-ED2-20230828.dll
+C:\Users\Brenno\source\repos\ADS-ED2-20230828\obj\Debug\net6.0-windows\ADS-ED2-20230828.pdb
+C:\Users\Brenno\source\repos\ADS-ED2-20230828\obj\Debug\net6.0-windows\ADS-ED2-20230828.genruntimeconfig.cache
+C:\Users\Brenno\source\repos\ADS-ED2-20230828\obj\Debug\net6.0-windows\ref\ADS-ED2-20230828.dll
